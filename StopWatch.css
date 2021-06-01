@@ -1,0 +1,52 @@
+html{
+  background-color: antiquewhite;
+}
+/* .container{
+
+    /* margin-top: 250px;
+    display: flex;
+    justify-content: center;
+
+    background-repeat: no-repeat;
+}
+*/
+h2{
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  font-size: 40px;
+}
+#setTime {
+  margin: auto;
+  border: 3px solid #010005;
+  padding: 10px;
+  width: 200px;
+  flex-wrap: wrap;
+  border-radius: 25px;
+  background-image: url("sky.jpg");
+  color: white;
+}
+#timeToDisplay{
+  font-size: xxx-large;
+}
+.setButtons{
+  display: flex;
+  justify-content: center;
+}
+.showTime{
+  display: flex;
+  justify-content: center;
+}
+#play{
+  display: block;
+}
+#pause{
+  display: none;
+}
+.setButtons > *{
+  padding: 7px;
+  margin: 7px;
+  font-weight: bolder;
+  font-size: 15px;
+}
+}
