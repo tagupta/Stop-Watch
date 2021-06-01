@@ -1,2 +1,3 @@
 # Stop-Watch
-Implementation of Stop watch
+
+I've implemented Stop Watch with a functionality of play, pause and reset.
